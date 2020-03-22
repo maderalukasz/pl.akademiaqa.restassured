@@ -1,0 +1,64 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# External tool builders
+.externalToolBuilders/
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+/build
+build/
+*/build/
+*/*/build/
+*/*/*/build/
+*.bin
+*.lock
+pl.akademiaqa.restassured/app/build/
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+.gradle/
+app/build/
+*app/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+/pl.akademiaqa.restassured/build/intermediates/lint-cache/api-versions-6-23.1.bin
+appcompat_v7_23_1_1.xml
+projectFilesBackup
+build.gradle
+pl.akademiaqa.restassured.iml
+gradlew
+gradlew.bat
+local.properties
+settings.gradle
+.gradle
+.idea
+android
+build
+gradle
